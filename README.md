@@ -5,12 +5,12 @@ The required directory structure:
 
 +DATA_DIR
 
- +0
+&nbsp+0
 
-   -*.png 
+&nbsp &nbsp-*.png 
    
- +1
+&nbsp+1
  
-   -*.png
+&nbsp &nbsp-*.png
    
 Note: Current implementation requires the classes to be named as 0, 1, 3 ...
